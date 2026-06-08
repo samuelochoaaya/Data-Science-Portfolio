@@ -24,9 +24,12 @@ Identificar clientes con alta probabilidad de churn y permitir acciones proactiv
 ## 📈 Resultados
 
 **Mejor modelo:** XGBOOST
-- Recall: 0.34 (detecta 34% de churners)
-- Precision: 0.28
-- F1-Score: 0.31
+- Recall: 0.8708 (detecta 87% de churners)
+- Precision: 0.9529
+- F1-Score: 0.9100
+- ROC AUC: 0.9923
+
+Se hace hizo un test independiente donde se midió el GAP entre train y test en XGBOOST. Este dio como resultado 0.008, lo cual descarta la posibilidad de sobreajuste. La teoría del sobreajuste aparece por los resultados de los modelos, ya que un ROC AUC 0.99 usualmente está sobreajustado. En este caso simplemente los datos están muy discriminados.
 
 ## 🛠️ Tecnologías
 
