@@ -26,7 +26,7 @@ permitiendo acciones proactivas de retención.
 - Recall: 0.34 (detecta 34% de churners)
 - F1-Score: 0.31
 
-📂 **[Ver proyecto completo →]([Proyecto-1-Churn/](https://github.com/samuelochoaaya/Data-Science-Portfolio/tree/main/Proyecto%20Churn%20Bancario))**
+📂 **[Ver proyecto completo →](https://github.com/samuelochoaaya/Data-Science-Portfolio/tree/main/Proyecto%20Churn%20Bancario)**
 
 ---
 
