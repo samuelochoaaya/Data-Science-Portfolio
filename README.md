@@ -63,7 +63,7 @@ Científico de Datos e Ingeniero Industrial especializado en machine learning
 y análisis estadístico avanzado. Actualmente en MSD desarrollando herramientas 
 predictivas para optimizar operaciones de ensayos clínicos.
 
-📧 **Email:** samuelochoaya@email.com
+📧 **Email:** samuelochoaya@gmail.com
 🔗 **LinkedIn:** [Mi perfil](www.linkedin.com/in/samuelochoaaya)
 💼 **GitHub:** [Mis repositorios](https://github.com/samuelochoaaya)
 
